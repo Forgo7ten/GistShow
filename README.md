@@ -4,6 +4,7 @@
 
 | gist名称 | gist描述 |
 | ---- | ---- |
+| [FirstShellTool.java](https://gist.github.com/Forgo7ten/12a12f2edf300f5b9c6e3cb6a7ebe14c) | 修改dex文件并修复 CheckSum、filesize、sha1；将某文件添加到dex文件的末尾 |
 | [窗口置顶.ahk](https://gist.github.com/Forgo7ten/ccd41750fbc6e5c5027750dea59ae1ac) | 通过Win+`键使任意窗口置顶、取消置顶 [autohotkey工具](<a href="https://autohotkey.com/" rel="nofollow">https://autohotkey.com/</a>) |
 | [register010Editor.py](https://gist.github.com/Forgo7ten/60bb03583de389ad17a87efa44871041) | 010Editor编辑器注册机，适用于Version: 12.0.1 |
 | [dex_checksum.py](https://gist.github.com/Forgo7ten/d8a453a721782ffbbc1c53a04060c924) | dex文件计算校验和 |
