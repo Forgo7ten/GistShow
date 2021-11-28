@@ -57,6 +57,7 @@ def main():
     gists = get_gist_info(f)
     if gists == "fail":
         log("fail!")
+        f.write("Fail!\n")
     else:
         add_gist_info(f, gists)
         log("Success!")
