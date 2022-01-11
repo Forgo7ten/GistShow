@@ -4,6 +4,7 @@
 
 | gist名称 | gist描述 |
 | ---- | ---- |
+| [KeePass_trigger.xml](https://gist.github.com/Forgo7ten/54508c73050a738bd878d070aa6b58e5) | Keepass触发器配置备份 |
 | [PAC丨GFWlist黑名单模式.json](https://gist.github.com/Forgo7ten/b7828fe34e20f61cfebca74a1ce76c41) | v2rayN-Core路由设置配置 |
 | [FirstShellTool.java](https://gist.github.com/Forgo7ten/12a12f2edf300f5b9c6e3cb6a7ebe14c) | 修改dex文件并修复 CheckSum、filesize、sha1；将某文件添加到dex文件的末尾 |
 | [窗口置顶.ahk](https://gist.github.com/Forgo7ten/ccd41750fbc6e5c5027750dea59ae1ac) | 通过Win+`键使任意窗口置顶、取消置顶 [autohotkey工具](<a href="https://autohotkey.com/" rel="nofollow">https://autohotkey.com/</a>) |
