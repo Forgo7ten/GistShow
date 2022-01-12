@@ -4,6 +4,7 @@
 
 | gist名称 | gist描述 |
 | ---- | ---- |
+| [1.loader.vbs](https://gist.github.com/Forgo7ten/9f30b53e0c94b0541858a348c3b2dcd1) | 隐藏.bat运行窗口两种方法 |
 | [KeePass_trigger.xml](https://gist.github.com/Forgo7ten/54508c73050a738bd878d070aa6b58e5) | Keepass触发器配置备份 |
 | [PAC丨GFWlist黑名单模式.json](https://gist.github.com/Forgo7ten/b7828fe34e20f61cfebca74a1ce76c41) | v2rayN-Core路由设置配置 |
 | [FirstShellTool.java](https://gist.github.com/Forgo7ten/12a12f2edf300f5b9c6e3cb6a7ebe14c) | 修改dex文件并修复 CheckSum、filesize、sha1；将某文件添加到dex文件的末尾 |
@@ -13,4 +14,3 @@
 | [wakeUpAndUnlock](https://gist.github.com/Forgo7ten/78cf5fb113b2ba087e478b276de3b94e) | Android代码：唤醒手机屏幕并解锁 |
 | [checkDangerousPermissions.py](https://gist.github.com/Forgo7ten/d6caf73452b5e08e062d8c5b99bd6908) | 检查应用需动态申请的危险权限并打印到控制台 |
 | [PermissionsUtil-Main.java](https://gist.github.com/Forgo7ten/060dde2d618d452d1ce37edaee86ffa7) | Android动态申请权限 工具类 |
-| [removeSameRow.py](https://gist.github.com/Forgo7ten/1c678351b09ce8d302f47a9fb00e4e10) | python简单去除txt文本文件中的相同行 |
