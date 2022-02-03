@@ -8,7 +8,12 @@ import re
 import time
 import requests
 
-gistUrl = "https://gist.github.com/Forgo7ten/public"
+# 本地测试添加代理
+# import os
+# os.environ["http_proxy"] = "http://127.0.0.1:10809"
+# os.environ["https_proxy"] = "http://127.0.0.1:10809"
+
+gistUrl = "https://gist.github.com/Forgo7ten"
 my_headers = {
     "User-Agent":
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
@@ -16,6 +21,7 @@ my_headers = {
 partten = re.compile(
     r'<div class="d-inline-block px-lg-2 px-0">.*?<span>.*?<a data-hovercard-type.*?href="/Forgo7ten">Forgo7ten</a>.*?/ <a href="([/\w]+?)"><strong.*?class="css-truncate-target">(.+?)</strong></a>.*?<div class="color-fg-muted f6">.*?<span class="f6 color-fg-muted">(.*?)</span>.*?</div>'
 )
+next_partten = re.compile(r'<a rel="nofollow" href="([\w:/.?=]+)">Older</a>')
 
 
 def log(msg):
@@ -34,11 +40,14 @@ def add_info(f):
     f.write(info_txt)
 
 
-def get_gist_info(f):
+def get_gist_info(gistUrl):
     r = requests.get(gistUrl, headers=my_headers)
-    gists = "fail"
+    gists = []
     if 200 == r.status_code:
         gists = partten.findall(r.text.replace("\n", " "))
+        next_urls = next_partten.findall(r.text.replace("\n", " "))
+        if len(next_urls) != 0:
+            gists += get_gist_info(next_urls[0])
     return gists
 
 
@@ -54,14 +63,14 @@ def add_gist_info(f, gists):
 def main():
     f = open("README.md", "w+", encoding="utf-8")
     add_info(f)
-    gists = get_gist_info(f)
-    if gists == "fail":
+    gists = get_gist_info(gistUrl)
+    if len(gists) == 0:
         log("fail!")
         f.write("Fail!\n")
     else:
         add_gist_info(f, gists)
         log("Success!")
-    f.close
+    f.close()
 
 
 if __name__ == '__main__':
