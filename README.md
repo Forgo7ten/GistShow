@@ -4,8 +4,9 @@
 
 | gist名称 | gist描述 |
 | ---- | ---- |
+| [Base.java](https://gist.github.com/Forgo7ten/43974d53f52db6256f8db20ded620ea7) | Base64 自定义字符表加解密 |
 | [AES.java](https://gist.github.com/Forgo7ten/5c0632182b9d671664f7e73e1c31ec40) | AES java原生加解密示例 |
-| [DES.java](https://gist.github.com/Forgo7ten/e04b2095d197200bc6b535597008510d) | DES java原生加解密示例 |
+| [DES.java](https://gist.github.com/Forgo7ten/e04b2095d197200bc6b535597008510d) | DES 加解密 |
 | [MyMail.java](https://gist.github.com/Forgo7ten/69aece486c326d5b3d0901687c68f56d) | Java Mail示例 |
 | [my_c_head.h](https://gist.github.com/Forgo7ten/455e0c10aa50b2675282148d9eefa1bf) | C语言部分加解密算法头 |
 | [xposed.java](https://gist.github.com/Forgo7ten/001dfe796a3b7116fcd188f8e5913a12) | roysue分享的xposed万能代码 |
