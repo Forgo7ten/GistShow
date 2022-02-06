@@ -4,6 +4,7 @@
 
 | gist名称 | gist描述 |
 | ---- | ---- |
+| [rc4.cpp](https://gist.github.com/Forgo7ten/28a2c20ade914e962a8c5714d36ccbca) | RC4加解密 |
 | [Base.java](https://gist.github.com/Forgo7ten/43974d53f52db6256f8db20ded620ea7) | Base64 自定义字符表加解密 |
 | [AES.java](https://gist.github.com/Forgo7ten/5c0632182b9d671664f7e73e1c31ec40) | AES java原生加解密示例 |
 | [DES.java](https://gist.github.com/Forgo7ten/e04b2095d197200bc6b535597008510d) | DES 加解密 |
