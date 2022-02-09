@@ -13,7 +13,7 @@
 | [MyMail.java](https://gist.github.com/Forgo7ten/69aece486c326d5b3d0901687c68f56d) | Java Mail示例 |
 | [my_c_head.h](https://gist.github.com/Forgo7ten/455e0c10aa50b2675282148d9eefa1bf) | C语言部分加解密算法头 |
 | [xposed.java](https://gist.github.com/Forgo7ten/001dfe796a3b7116fcd188f8e5913a12) | roysue分享的xposed万能代码 |
-| [1.loader.vbs](https://gist.github.com/Forgo7ten/9f30b53e0c94b0541858a348c3b2dcd1) | 隐藏.bat运行窗口两种方法 |
+| [0.run.vbs](https://gist.github.com/Forgo7ten/9f30b53e0c94b0541858a348c3b2dcd1) | 隐藏.bat运行窗口 |
 | [auto_save.xml](https://gist.github.com/Forgo7ten/54508c73050a738bd878d070aa6b58e5) | Keepass触发器配置备份 |
 | [PAC丨GFWlist黑名单模式.json](https://gist.github.com/Forgo7ten/b7828fe34e20f61cfebca74a1ce76c41) | v2rayN-Core路由设置配置 |
 | [FirstShellTool.java](https://gist.github.com/Forgo7ten/12a12f2edf300f5b9c6e3cb6a7ebe14c) | 修改dex文件并修复 CheckSum、filesize、sha1；将某文件添加到dex文件的末尾 |
