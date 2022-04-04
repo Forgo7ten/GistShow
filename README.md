@@ -4,7 +4,6 @@
 
 | gist名称 | gist描述 |
 | ---- | ---- |
-| [win10系统启动时创建系统还原点.xml](https://gist.github.com/Forgo7ten/e51c2b1b480ac6acb78d05d1c163563f) | win10自己的计划任务 |
 | [rc4.py](https://gist.github.com/Forgo7ten/1d7332562e452ac914c040466a4409fe) | SM4加解密 |
 | [RSA.java](https://gist.github.com/Forgo7ten/0a8e003562f9f2576dcddbfed1b79d77) | RSA加解密 |
 | [rc4.cpp](https://gist.github.com/Forgo7ten/28a2c20ade914e962a8c5714d36ccbca) | RC4加解密 |
