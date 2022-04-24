@@ -4,6 +4,8 @@
 
 | gist名称 | gist描述 |
 | ---- | ---- |
+| [watch_onclick.js](https://gist.github.com/Forgo7ten/cc325b0c1158babe6c9326e18c4860b3) | 监听用户点击事件：hook onclick方法 |
+| [hook_keystore.js](https://gist.github.com/Forgo7ten/102d46e2f478ddadec0d2350ac8723e3) | Frida hook KeyStore：客户端证书校验 |
 | [rc4.py](https://gist.github.com/Forgo7ten/1d7332562e452ac914c040466a4409fe) | SM4加解密 |
 | [RSA.java](https://gist.github.com/Forgo7ten/0a8e003562f9f2576dcddbfed1b79d77) | RSA加解密 |
 | [rc4.cpp](https://gist.github.com/Forgo7ten/28a2c20ade914e962a8c5714d36ccbca) | RC4加解密 |
