@@ -4,6 +4,7 @@
 
 | gist名称 | gist描述 |
 | ---- | ---- |
+| [autoComments.js](https://gist.github.com/Forgo7ten/d123f04b9b11f8cd3047a25a550be98b) | 方正教务系统自动评价 |
 | [requestsWithCertificate.py](https://gist.github.com/Forgo7ten/6ce752442fa80c82141197afdad05b1c) | python requests发送网络请求携带证书（服务端证书校验） |
 | [watch_onclick.js](https://gist.github.com/Forgo7ten/cc325b0c1158babe6c9326e18c4860b3) | 监听用户点击事件：hook onclick方法 |
 | [hook_keystore.js](https://gist.github.com/Forgo7ten/102d46e2f478ddadec0d2350ac8723e3) | Frida hook KeyStore：客户端证书校验 |
