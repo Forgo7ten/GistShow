@@ -4,6 +4,7 @@
 
 | gist名称 | gist描述 |
 | ---- | ---- |
+| [mock_adbd.py](https://gist.github.com/Forgo7ten/5a84efd2b68c6385d8eeecf4dfae55b4) | 简单实现adbd协议的server |
 | [move_cert.sh](https://gist.github.com/Forgo7ten/19a444b9de51d5c321426e1b38bc322f) | 用于快速的转换证书并放入Android设备中 |
 | [ReflectionUtils.java](https://gist.github.com/Forgo7ten/6573f8e134c2d3d03370cbe0f81a587f) | Java反射工具类 单文件，提取自XposedHelpers |
 | [010_register.sh](https://gist.github.com/Forgo7ten/db233546eda74afa22be53bb6a93b0ac) | Linux and MacOS, 010Editor Register. |
