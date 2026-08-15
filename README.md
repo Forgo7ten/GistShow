@@ -4,6 +4,7 @@
 
 | gist名称 | gist描述 |
 | ---- | ---- |
+| [guide.txt](https://gist.github.com/Forgo7ten/2d93c059dfae33d69f5a81646214ee4d) | block revokes permanently on enterprise certs on iOS |
 | [ida_mc_notes.md](https://gist.github.com/Forgo7ten/0810077aac35c1fdd32bcb0d3fb63d4b) | Some notes about the IDA Microcode (intermediate language). |
 | [download_ndk.py](https://gist.github.com/Forgo7ten/11aed162e75234509fd9b42a7d73f4ff) | download_ndk.py - 输入版本下载指定ndk |
 | [mock_adbd.py](https://gist.github.com/Forgo7ten/5a84efd2b68c6385d8eeecf4dfae55b4) | 简单实现adbd协议的server |
