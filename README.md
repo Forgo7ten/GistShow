@@ -4,6 +4,7 @@
 
 | gist名称 | gist描述 |
 | ---- | ---- |
+| [frida-update-ios.sh](https://gist.github.com/Forgo7ten/d0f2d495f329af4511a8dd5a6984cd06) | frida-update-ios.sh |
 | [guide.txt](https://gist.github.com/Forgo7ten/2d93c059dfae33d69f5a81646214ee4d) | block revokes permanently on enterprise certs on iOS |
 | [ida_mc_notes.md](https://gist.github.com/Forgo7ten/0810077aac35c1fdd32bcb0d3fb63d4b) | Some notes about the IDA Microcode (intermediate language). |
 | [download_ndk.py](https://gist.github.com/Forgo7ten/11aed162e75234509fd9b42a7d73f4ff) | download_ndk.py - 输入版本下载指定ndk |
